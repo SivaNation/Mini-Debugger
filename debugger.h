@@ -1,9 +1,3 @@
-/*
- * debugger.h
- *
- *  Created on: Dec 24, 2025
- *      Author: SNEHA
- */
 
 #ifndef DEBUGGER_H_
 #define DEBUGGER_H_
@@ -53,3 +47,4 @@ extern volatile int dbg_resume_req;
 extern volatile int dbg_paused ;
 
 #endif /* DEBUGGER_H_ */
+
