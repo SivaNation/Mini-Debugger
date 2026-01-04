@@ -1,9 +1,3 @@
-/*
- * debugger.c
- *
- *  Created on: Dec 24, 2025
- *      Author: SNEHA
- */
 
 #include "stm32f411xe.h"
 #include "debugger.h"
@@ -102,3 +96,4 @@ void send_snapshot(char *p)
         }
     }
 }
+
